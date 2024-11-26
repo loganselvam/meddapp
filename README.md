@@ -23,6 +23,9 @@ Before you can run the project, ensure you have the following installed on your 
 - **Node.js** (version 14 or higher) - [Install Node.js](https://nodejs.org/en/)
 - **Vue CLI** - [Install Vue CLI](https://cli.vuejs.org/)
 
+## Login
+login credentials are store in the src>store>index.j
+
 ## Installation
 
 1. **Clone the Repository**:
